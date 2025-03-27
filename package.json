@@ -1,5 +1,5 @@
 {
-  "name": "flitt-node-js-sdk",
+  "name": "@flittpayments/flitt-node-js-sdk",
   "version": "1.0.8",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlittPay/node-js-sdk.git"
+    "url": "git+https://github.com/flittpayments/node-js-sdk.git"
   },
   "author": "D.M.",
   "license": "GPL-3.0",
