@@ -21,7 +21,7 @@ npm install flitt-node-js-sdk
 
 #### Manual installation
 ```cmd
-git clone -b master https://github.com/FlittPay/node-js-sdk.git
+git clone -b master https://github.com/flittpayments/node-js-sdk.git
 ```
 
 ## Required
