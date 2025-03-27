@@ -16,7 +16,7 @@ A payment service provider (PSP) offers shops online services for accepting elec
 ## Installation
 
 ```cmd
-npm install flitt-node-js-sdk
+npm install @flittpayments/flitt-node-js-sdk
 ```
 
 #### Manual installation
@@ -30,7 +30,7 @@ node >= 7
 ```
 ## Simple Start
 ```javascript
-const FlittPay = require('flitt-node-js-sdk')
+const FlittPay = require('@flittpayments/flitt-node-js-sdk')
 
 const flitt = new FlittPay(
   {
