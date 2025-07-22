@@ -4,9 +4,9 @@
   <img width="200" height="200" src="https://flitt.com/wp-content/uploads/2024/09/Group.svg">
 </p>
 <p align="center">
-	<a href="https://www.npmjs.com/package/flitt-node-js-sdk"><img src="https://img.shields.io/npm/v/FlittPay-node-js-sdk.svg" alt="raiting" /></a>
-	<a href="https://www.npmjs.com/package/flitt-node-js-sdk"><img src="https://img.shields.io/npm/dt/FlittPay-node-js-sdk.svg" alt="raiting" /></a>
-	<a href="https://www.npmjs.com/package/flitt-node-js-sdk"><img src="https://img.shields.io/npm/dw/FlittPay-node-js-sdk.svg" alt="raiting" /></a>
+	<a href="https://www.npmjs.com/package/@flittpayments/flitt-node-js-sdk"><img src="https://img.shields.io/npm/v/@flittpayments/flitt-node-js-sdk.svg" alt="raiting" /></a>
+	<a href="https://www.npmjs.com/package/@flittpayments/flitt-node-js-sdk"><img src="https://img.shields.io/npm/dt/@flittpayments/flitt-node-js-sdk.svg" alt="raiting" /></a>
+	<a href="https://www.npmjs.com/package/@flittpayments/flitt-node-js-sdk"><img src="https://img.shields.io/npm/dw/@flittpayments/flitt-node-js-sdk.svg" alt="raiting" /></a>
 </p>
 
 ## Payment service provider
