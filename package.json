@@ -1,8 +1,13 @@
 {
   "name": "@flittpayments/flitt-node-js-sdk",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
+  "files": [
+    "lib",
+    "types",
+    "examples"
+  ],
   "scripts": {
     "test": "mocha --timeout 15000 ./test"
   },
@@ -24,6 +29,6 @@
     "eslint-plugin-chai-expect": "^3.1.0"
   },
   "engines": {
-    "node": ">=7.0.0"
+    "node": ">=7.6.0"
   }
 }

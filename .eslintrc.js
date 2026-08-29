@@ -12,9 +12,16 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2018
   },
+  overrides: [
+    {
+      files: ['test/**/*.js'],
+      parserOptions: {
+        ecmaVersion: 2020
+      }
+    }
+  ],
   plugins: [
     'mocha',
     'chai-expect'
   ]
 }
-

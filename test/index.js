@@ -1,8 +1,13 @@
 'use strict'
 
-const chai = require('chai')
-const expect = chai.expect
 const FlittPay = require('../lib')
+
+let expect
+
+before(async function () {
+  const chai = await import('chai')
+  expect = chai.expect
+})
 
 const flitt = new FlittPay(
   {
