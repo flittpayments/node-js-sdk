@@ -1,5 +1,8 @@
 'use strict'
 
+// Deprecated since API parity with Python SDK 2.0. Use Status for the current
+// order state. This example remains only for existing integrations.
+
 const FlittPay = require('../lib')
 
 const flitt = new FlittPay(
